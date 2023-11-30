@@ -1,30 +1,24 @@
-# React + TypeScript + Vite
+# Goal Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## App Repo 
+https://github.com/FelixW01/goal-manager
 
-Currently, two official plugins are available:
+## Description
+A goal managing application created with Typescript and React. This application was created for the purpose to deeper understanding the relationship between Typescript and React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+- [App Demo](#app-demo)
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [Questions](#questions)
 
-## Expanding the ESLint configuration
+## App Demo
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Installation
+To run Locally, clone the repository and run "npm install" & "npm run dev" in the terminal, then open [localhost](http://127.0.0.1:5173/) on your browser.
 
-- Configure the top-level `parserOptions` property like this:
+## Contributing
+Felix Willem
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Questions
+If you have any questions please contact me github: FelixW01 Email: felixwillem01@yahoo.com.
