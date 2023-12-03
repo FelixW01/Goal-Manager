@@ -111,6 +111,7 @@ li p {
   margin: 0;
   font-size: 0.85rem;
   color: #dfd9be;
+  text-align: start;
 }
 
 li button {
