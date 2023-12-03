@@ -13,6 +13,7 @@ A goal managing application created with Typescript and React. This application 
 - [Questions](#questions)
 
 ## App Demo
+![12](https://github.com/FelixW01/Goal-Manager/assets/90164142/5366c9b2-f84e-4470-b2ae-1d98c081aadc)
 
 ## Installation
 To run Locally, clone the repository and run "npm install" & "npm run dev" in the terminal, then open [localhost](http://127.0.0.1:5173/) on your browser.
