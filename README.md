@@ -4,7 +4,7 @@
 https://github.com/FelixW01/goal-manager
 
 ## Description
-A goal managing application created with Typescript and React. This application was created for the purpose to deeper understanding the inner workings of React with Typescript.
+A goal managing application created with Typescript and React. This application was created for the purpose of deeper understanding the inner workings of React in conjunction with Typescript.
 
 ## Table of Contents
 - [App Demo](#app-demo)
